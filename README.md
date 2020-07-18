@@ -1,7 +1,11 @@
 # ChineseSemanticKB
-ChineseSemanticKB,chinese semantic knowledge base, 面向中文处理的12类语义常用词典，包括34万抽象语义库、34万反义语义库、43万同义语义库、停用词等，可支持句子扩展、转写等多种应用场景。
+ChineseSemanticKB,chinese semantic knowledge base, 面向中文处理的12类、百万规模的语义常用词典，包括34万抽象语义库、34万反义语义库、43万同义语义库等，可支持句子扩展、转写、事件抽象与泛化等多种应用场景。
 
 # 项目介绍
+
+
+
+
 
 
 # 词库的类别
@@ -22,6 +26,11 @@ ChineseSemanticKB,chinese semantic knowledge base, 面向中文处理的12类语
 | 情态词 |　77 | 肯定、应该、大概 | 可用于句子主观性计算、舆情与可信度计算 |
 
 # 总结
+1、本项目开源了一个目前可用于事件处理以及工业舆情的12类语义词库，总规模数目一百余万；
+2、本项目开源的34万抽象语义库、34万反义语义库、43万同义语义库，在作者的实际工作中【事件处理、事理抽取、事件推理】等有重要用途。
+3、中文常用语义常用词典，均来源于公开文本+人工整理+机器抽取形成，其中若有质量不高之处，可积极批评指正。
+4、中文开源事业还是要坚持做下去，尽可能地缩短自然语言处理学术界和工业界之间的鸿沟。
+
 If any question about the project or me ,see https://liuhuanyong.github.io/. 
 如有自然语言处理、知识图谱、事理图谱、社会计算、语言资源建设等问题或合作，可联系我：      
 1、我的github项目介绍：https://liuhuanyong.github.io     
