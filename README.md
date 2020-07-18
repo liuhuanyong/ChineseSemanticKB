@@ -7,28 +7,18 @@ ChineseSemanticKB,chinese semantic knowledge base, 面向中文处理的12类语
 
 | 词库类型 | 词库规模 | 词库举例 |
 | :--- | :---: | :---: |
-| disease_symptom | 疾病症状| 乳腺癌的症状有哪些？ |
-| symptom_disease | 已知症状找可能疾病 | 最近老流鼻涕怎么办？ |
-| disease_cause | 疾病病因 | 为什么有的人会失眠？|
-| disease_acompany | 疾病的并发症 | 失眠有哪些并发症？ |
-| disease_not_food | 疾病需要忌口的食物 | 失眠的人不要吃啥？ |
-| disease_do_food | 疾病建议吃什么食物 | 耳鸣了吃点啥？ |
-| food_not_disease | 什么病最好不要吃某事物 | 哪些人最好不好吃蜂蜜？ |
-| food_do_disease | 食物对什么病有好处| 鹅肉有什么好处？ |
-| disease_drug | 啥病要吃啥药 | 肝病要吃啥药？ |
-| drug_disease | 药品能治啥病 | 板蓝根颗粒能治啥病？ |
-| disease_check | 疾病需要做什么检查 | 脑膜炎怎么才能查出来？|
-| check_disease |　检查能查什么病 | 全血细胞计数能查出啥来？ |
-| disease_prevent | 预防措施| 怎样才能预防肾虚？ |
-| disease_lasttime | 治疗周期 | 感冒要多久才能好？ |
-| disease_cureway | 治疗方式 | 高血压要怎么治？ |
-| disease_cureprob | 治愈概率 | 白血病能治好吗？ |
-| disease_easyget | 疾病易感人群 | 什么人容易得高血压？ |
-| disease_desc | 疾病描述 | 糖尿病 |
-
-
-
-
+| 抽象关系库 | 346,048 | 座椅,抽象,家具 |
+| 反义关系库 | 34,380 | 最近老流鼻涕怎么办？ |
+| 同义关系库 | 424,826 | 为什么有的人会失眠？|
+| 简称关系库 | 136,081 | 为什么有的人会失眠？|
+| 程度副词 | 222 | 极其,2.0 |
+| 否定词 | 586 | 不,无,没有 |
+| 节日时间词 | 54 | 春节、五四节 |
+| 量比词 | 7 | 占比、环比、同比 |
+| 数量介词 | 24| 大约、达到、超过 |
+| 停用词 | 3,861 | ？、的、着 |
+| 修饰副词 | 222 | 所、有所 |
+| 情态词 |　77 | 肯定、应该、大概 |
 
 # 总结
 If any question about the project or me ,see https://liuhuanyong.github.io/
